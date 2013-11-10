@@ -13,4 +13,7 @@ just trying out some **.md** file formatting...
 
 some code:
 
-['a', 'b'].map(&:uppercase)
+    I am code
+    
+    
+carzy shit...
